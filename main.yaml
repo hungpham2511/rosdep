@@ -4,4 +4,16 @@ joint_state_publisher_gui: {ubuntu: []}
 
 python3-pykdl: {ubuntu: []}
 velocity_controllers: {ubuntu: []}
-ur5_moveit_config: {ubuntu: []}
+
+ur10e_moveit_config : {ubuntu: {}}
+ur10_moveit_config  : {ubuntu: {}}
+ur16e_moveit_config : {ubuntu: {}}
+ur3e_moveit_config  : {ubuntu: {}}
+ur3_moveit_config   : {ubuntu: {}} 
+ur5e_moveit_config  : {ubuntu: {}} 
+ur5_moveit_config   : {ubuntu: {}}
+
+twist_controller: {ubuntu: {}}
+
+ur_kinematics: {ubuntu: []}
+ur_gazebo: {ubuntu: []}
