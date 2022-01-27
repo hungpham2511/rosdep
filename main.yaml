@@ -3,5 +3,5 @@ ur_gazebo: {ubuntu: []}
 joint_state_publisher_gui: {ubuntu: []}
 
 python3-pykdl: {ubuntu: []}
-velocity-controllers: {ubuntu: []}
-ur5-moveit-config: {ubuntu: []}
+velocity_controllers: {ubuntu: []}
+ur5_moveit_config: {ubuntu: []}
