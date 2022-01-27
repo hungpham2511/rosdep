@@ -11,9 +11,9 @@ ur16e_moveit_config: {ubuntu: {}}
 ur3e_moveit_config: {ubuntu: {}}
 ur3_moveit_config: {ubuntu: {}} 
 ur5e_moveit_config: {ubuntu: {}} 
-ur5_moveit_config: {ubuntu: {}}
+ur5_moveit_config: {ubuntu: {bionic: []}}
 
-twist_controller: {ubuntu: {}}
+twist_controller: {ubuntu: {bionic: []}}
 
 ur_kinematics: {ubuntu: []}
 ur_gazebo: {ubuntu: []}
