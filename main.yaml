@@ -17,3 +17,4 @@ twist_controller: {ubuntu: {bionic: []}}
 
 ur_kinematics: {ubuntu: []}
 ur_gazebo: {ubuntu: []}
+catkin: {ubuntu: []}
